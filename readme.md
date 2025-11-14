@@ -1,5 +1,3 @@
 # This is my readme file
 
-- This file has feature 1.
-- pull request
-- 
+- This file has feature 1. 
