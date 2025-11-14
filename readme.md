@@ -1,3 +1,3 @@
 # This is my readme file
 
-- This file has feature 1. 
+- This file has feature 1 (div). 
